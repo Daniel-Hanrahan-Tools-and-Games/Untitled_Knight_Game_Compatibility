@@ -110,3 +110,5 @@ Creative Commons Attribution-NonCommercial-NoDerivatives
 
 This alternative applies only to the extent necessary to
 comply with such restrictions.
+
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/vlc">If you are going to do anything with this game you are going to need the VLC source code here and when using polyform noncommercial or polyform strict you must provide files for libVLC on request and state that.</a>
