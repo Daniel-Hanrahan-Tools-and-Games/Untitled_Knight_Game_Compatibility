@@ -360,7 +360,7 @@ static void Draw()
 
 int main()
 {
-    InitWindow(SCREEN_W, SCREEN_H, "Game");
+    InitWindow(SCREEN_W, SCREEN_H, "Untitled_Knight_Game_Compatibility");
     SetTargetFPS(60);
 
     g.state = STATE_TITLE;
