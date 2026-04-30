@@ -14,6 +14,8 @@ Compatibility version of Untitled_Knight_Game
   <li>type this in terminal: make</li>
   <li>type this in terminal: sudo make install</li>
   <li>type this in terminal: sudo apt install libvlc5=3.0.16-dev=3.0.16-1build1</li>
+  <li>type this in terminal: export LUA_INC=/path/to/game directory/lua542Linux/include<</li>
+  <li>type this in terminal: type this in terminal: export LUA_LIB=/path/to/game directory/lua542Linux/lib</li>
 </ol>
 
 <h3>How to compile the game with g++</h3>
